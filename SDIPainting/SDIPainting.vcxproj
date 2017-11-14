@@ -183,6 +183,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="DDA.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="SDIPainting.h" />
@@ -192,6 +193,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="DDA.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="SDIPainting.cpp" />
     <ClCompile Include="SDIPaintingDoc.cpp" />

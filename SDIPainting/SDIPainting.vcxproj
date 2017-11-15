@@ -185,6 +185,7 @@
   <ItemGroup>
     <ClInclude Include="DDA.h" />
     <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="MPC.h" />
     <ClInclude Include="MPL.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="SDIPainting.h" />
@@ -196,6 +197,7 @@
   <ItemGroup>
     <ClCompile Include="DDA.cpp" />
     <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="MPC.cpp" />
     <ClCompile Include="MPL.cpp" />
     <ClCompile Include="SDIPainting.cpp" />
     <ClCompile Include="SDIPaintingDoc.cpp" />

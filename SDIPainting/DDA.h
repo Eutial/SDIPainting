@@ -20,4 +20,9 @@ protected:
 	virtual void DoDataExchange(CDataExchange* pDX);    // DDX/DDV support
 
 	DECLARE_MESSAGE_MAP()
+public:
+	int DDA_x1;
+	int DDA_y1;
+	int DDA_x2;
+	int DDA_y2;
 };

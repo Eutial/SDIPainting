@@ -48,6 +48,9 @@
     <ClInclude Include="SLF.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="SF.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SDIPainting.cpp">
@@ -75,6 +78,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="SLF.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SF.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

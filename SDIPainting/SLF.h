@@ -21,15 +21,10 @@ protected:
 
 	DECLARE_MESSAGE_MAP()
 public:
-	int SLF_x1;
-	int SLF_x2;
-	int SLF_x3;
-	int SLF_x4;
-	int SLF_x5;
-	int SLF_y1;
-	int SLF_y2;
-	int SLF_y3;
-	int SLF_y4;
-	int SLF_y5;
+
+	int SLF_ltx;
+	int SLF_lty;
+	int SLF_rbx;
+	int SLF_rby;
 };
 

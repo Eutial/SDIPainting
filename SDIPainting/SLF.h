@@ -26,5 +26,6 @@ public:
 	int SLF_lty;
 	int SLF_rbx;
 	int SLF_rby;
+	afx_msg void OnEnChangeSlfrbx();
 };
 

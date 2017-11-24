@@ -25,4 +25,5 @@ public:
 	int SF_lty;
 	int SF_rbx;
 	int SF_rby;
+	afx_msg void OnEnChangeSfrby();
 };

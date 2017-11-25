@@ -32,7 +32,7 @@ void CMPC::DoDataExchange(CDataExchange* pDX)
 	DDX_Text(pDX, IDC_MPC_y, MPC_y);
 	DDV_MinMaxInt(pDX, MPC_y, 0, 999);
 	DDX_Text(pDX, IDC_MPC_r, MPC_r);
-	DDV_MinMaxInt(pDX, MPC_r, 0, 100);
+	DDV_MinMaxInt(pDX, MPC_r, 1, 500);
 }
 
 
